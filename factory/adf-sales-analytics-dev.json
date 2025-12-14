@@ -1,0 +1,9 @@
+{
+	"name": "adf-sales-analytics-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0414d67e-eb68-441b-b625-a861106937fc",
+		"tenantId": "cd2cbc29-00bf-4ebf-8f6b-a51e6064fe93"
+	}
+}
