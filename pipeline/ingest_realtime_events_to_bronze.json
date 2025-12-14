@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "ingest_realtime_events_to_bronze",
+				"description": "initial test pipeline\n",
 				"type": "GetMetadata",
 				"dependsOn": [],
 				"policy": {
